@@ -1,4 +1,4 @@
-1. Load SQL database through intellij program.
-2. Experiment with running basic queries.
-3. Determine best ways to run SQL query through database contents. 
-4. Decide on interface for program
+1. Ensure SQL database loads/is read through intellij program.
+2. Experiment with running basic queries and java applications through Intellij program
+3. Consider interface for program user
+4. Distribute queries amongst group members to work on
